@@ -11,7 +11,7 @@ from urllib import request
 date_bolsa = "date_bolsa=" + input("Date Bolsa: ")
 open_bolsa = "open_bolsa=" + input("Open Bolsa: ")
 high_bolsa = "high_bolsa=" + input("High Bolsa: ")
-low_bolsa =  "high_bolsa=" + input("Low Bolsa: ")
+low_bolsa =  "low_bolsa=" + input("Low Bolsa: ")
 close_bolsa = "close_bolsa=" + input("Close Bolsa: ")
 volume_bolsa = "volume_bolsa=" + input("Volume Bolsa: ")
 
