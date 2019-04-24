@@ -1,0 +1,6 @@
+date_bolsa
+open_bolsa
+high_bolsa
+low_bolsa
+close_bolsa
+volume_bolsa
